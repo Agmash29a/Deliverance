@@ -1,0 +1,141 @@
+.links
+{
+    FONT-SIZE: 9pt;
+    COLOR: #000000;
+    FONT-FAMILY: Arial, sans-serif, Helvetica;
+    TEXT-DECORATION: underline
+}
+.speciallinks
+{
+    FONT-SIZE: 13pt;
+    COLOR: #800000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: underline
+}
+.biglinks
+{
+    FONT-SIZE: 11pt;
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: underline
+}
+.smalllinks
+{
+    FONT-SIZE: 8pt;
+    COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: underline
+}
+.basicfont
+{
+    FONT-SIZE: 9pt;
+    COLOR: #000000;
+    LINE-HEIGHT: normal;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.textfont
+{
+    FONT-SIZE: 10pt;
+    COLOR: #000000;
+    LINE-HEIGHT: normal;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.textfontlinks
+{
+    FONT-SIZE: 10pt;
+    COLOR: #000000;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.smallfont
+{
+    FONT-SIZE: 8pt;
+    COLOR: #000000;
+    LINE-HEIGHT: normal;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.headingback
+{
+    FONT-SIZE: 9pt;
+    LINE-HEIGHT: normal;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    BACKGROUND-COLOR: #f0e010
+}
+.outerborder
+{
+    FONT-SIZE: 9pt;
+    LINE-HEIGHT: normal;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    BACKGROUND-COLOR: #feff81
+}
+.innerborder
+{
+    FONT-SIZE: 9pt;
+    LINE-HEIGHT: normal;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    BACKGROUND-COLOR: #a5a701
+}
+.textbox
+{
+    FONT-SIZE: 9pt;
+    WIDTH: 100%;
+    LINE-HEIGHT: normal;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.textboxsmall
+{
+    FONT-SIZE: 9pt;
+    LINE-HEIGHT: normal;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.invalidtext
+{
+    FONT-SIZE: 9pt;
+    COLOR: #c00000;
+    LINE-HEIGHT: normal;
+    FONT-STYLE: italic;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.logintextbox
+{
+    FONT-SIZE: 9pt;
+    WIDTH: 65%;
+    LINE-HEIGHT: normal;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.Headingfont
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14pt;
+    BORDER-LEFT: medium none;
+    COLOR: #bd0000;
+    LINE-HEIGHT: normal;
+    BORDER-BOTTOM: medium none;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.Highlightfont
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    COLOR: #bd0000;
+    LINE-HEIGHT: normal;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.HighlightedText
+{
+    FONT-SIZE: 12pt;
+    COLOR: #bd0000
+}
